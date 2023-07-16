@@ -5,7 +5,7 @@ I have read all the introductions about EPF4 available on GitHub. I have also co
 
 Unfortunately, due to time constraints, I missed the first meeting. However, I am fortunate that the meeting was recorded. After reviewing the entire recording, I now have a clearer understanding of EPF4 and its objectives.
 
-## Decided Contribution Task
+## Final selected Task
 Before selecting a task, I conducted a self-analysis. Here are my findings:
 
 1. What am I proficient in? 
